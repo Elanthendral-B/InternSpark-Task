@@ -1,6 +1,6 @@
 ## Task Output 1
 
-[View Live Portfolio](http://127.0.0.1:5500/index.html)
+[View Live Portfolio](https://elanthendral-b.github.io/portfolio/)
 
 ## Task Output 2
 
