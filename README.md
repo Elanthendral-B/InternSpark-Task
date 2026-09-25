@@ -4,8 +4,8 @@
 
 ## Task Output 2
 
-[View Live Portfolio](https://elanthendral-b.github.io/expense-tracker/)
+[View Live expense-tracker](https://elanthendral-b.github.io/expense-tracker/)
 
 ## Task Output 3
 
-[View Live Portfolio](https://elanthendral-b.github.io/weather-dashboard/)
+[View Live weather-dashboard](https://elanthendral-b.github.io/weather-dashboard/)
